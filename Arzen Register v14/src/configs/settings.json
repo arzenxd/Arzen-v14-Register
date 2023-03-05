@@ -1,0 +1,13 @@
+{
+  "token": "tokenini gir aşko",
+  "prefix": [".", "!", "-"],
+  "guildID": "",
+  "mongoUrl": "",
+  "owners": [""],
+  "botDurum": "Arzen is here?",
+  "botSes": "",
+  "registerPerm": "",
+
+  "dmMessages": true
+
+}

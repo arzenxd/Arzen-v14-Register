@@ -1,0 +1,59 @@
+{
+  "staffs": [
+    ""
+    
+    
+    
+    
+    
+  
+  ],
+  "erkekRolleri": [
+    "",""
+  ],
+  "kizRolleri": [
+    "",""
+  ],
+
+  "teyitciRolleri": [
+    ""
+  ],
+  "ekipRolu": [
+    ""
+  ],
+  "sahipRolu": [
+    ""
+  ],
+  "unregRoles": [
+    ""
+  ],
+  "boosterRolu": "",
+    
+  
+  
+  
+  "tag": "",
+  "ikinciTag": "•",
+  
+  "fakeAccRole": [
+    ""
+  ],
+  
+
+  "Yetkili": true,
+"owner":"",
+  "chatChannel": "",
+  "teyitKanali": "",
+  "ekipLogChannel": "",
+  "invLogChannel": "",
+  "botses": "",
+  "kurallar": "",
+  "vipRole": "",
+  "komutLog" : "" 
+  
+  
+  
+  
+  
+  
+}
